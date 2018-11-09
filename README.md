@@ -1,6 +1,6 @@
 # React Simple Clone Twitter com Socke.io
 
-** API utilizada, [API Clone Twitter](https://github.com/AbimaelAndrade/simple-api-clone-twittrer-nodejs-socket-io.git).
+API utilizada, [API Clone Twitter](https://github.com/AbimaelAndrade/simple-api-clone-twittrer-nodejs-socket-io.git). 
 
 # Instalar
 
